@@ -1,0 +1,9 @@
+21/03/2021 14:06:02 - https://www.alura.com.br/- online: true
+21/03/2021 14:06:03 - https://random-status-code.herokuapp.com/- online: true
+21/03/2021 14:06:03 - https://google.com/- online: true
+21/03/2021 14:06:09 - https://www.alura.com.br/- online: true
+21/03/2021 14:06:09 - https://random-status-code.herokuapp.com/- online: true
+21/03/2021 14:06:10 - https://google.com/- online: true
+21/03/2021 14:06:15 - https://www.alura.com.br/- online: true
+21/03/2021 14:06:16 - https://random-status-code.herokuapp.com/- online: false
+21/03/2021 14:06:16 - https://google.com/- online: true
